@@ -1,4 +1,27 @@
-## Machine Learning Security
+## Table of Contents
+1. [Introduction](#introduction)
+2. [Events and Groups](#events-and-groups) :calendar:
+3. [Videos](#videos) :film_strip:
+4. [Demos](#demos) :test_tube:
+5. [Literature](#literature)  :blue_book: :page_facing_up:
+
+### Introduction
+
+Artificial Intelligence (AI) or Machine Learning (ML) is widely used today because it achieves much better results than humans can in many domains. The technology is based on a learning process in which an algorithm is trained with large amounts of data. This yields to a generalized model that should interpret unseen data. For example, a model's task could be to classify a traffic sign. ML is increasingly used in critical areas where errors can have serious consequences, such as a self-driving car that classifies a stop sign as a speed limit sign. This raises the question how secure such systems are.
+
+An AI is often trained and evaluated with data that originates from controlled environments. In practice, however, this assumption is not given in many domains. Research has already shown practical attacks against AI systems and thus proven fundamental security problems.
+
+
+
+### Events and Groups
+
+### Videos
+
+### Demos
+
+With [adversarial.js](https://kennysong.github.io/adversarial.js/) one can create adversarial examples to attack neural networks within a browser.
+
+### Literature
 
 *Intriguing properties of neural networks*. [Szegedy et al. (2013)](https://research.google/pubs/pub42503/) discovered that deep neural networks, trained on an image classification task, are susceptible to adversarial examples. Minor manipulations of an image that are imperceptible to the naked eye can cause a neural network to output arbitrary classifications. Moreover, they found that adversarial examples are transferable between neural networks, that is, even neural networks with different parametrizations and training sets can be susceptible to the same adversarial examples. The authors of this work coined the term *adversarial examples* to describe input data perturbed with adversarial intent and performed experiments on crafting adversarial examples in the domain of image classification. The results indicate that the internal operation of neural networks behaves very sensitive to apparently insignificant changes to an input's semantic leading to an unexpected output.
 
