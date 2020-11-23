@@ -1,6 +1,6 @@
 ## Table of Contents
 1. [Introduction](#introduction)
-2. [Events and Groups](#events-and-groups) :calendar:
+2. [Events and Groups](#events-and-groups) 📆
 3. [Videos](#videos) :film_strip:
 4. [Demos](#demos) :test_tube:
 5. [Literature](#literature)  :blue_book: :page_facing_up:
