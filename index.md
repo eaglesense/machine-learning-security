@@ -1,17 +1,14 @@
-## Table of Contents
-1. [Introduction](#introduction)
-2. [Events and Groups](#events-and-groups) 📆
-3. [Videos](#videos) 🎞️
-4. [Demos](#demos) 🧪
-5. [Literature](#literature) 📘 📄
-
-### Introduction
+## Machine Learning Security
 
 Artificial Intelligence (AI) or Machine Learning (ML) is widely used today because it achieves much better results than humans can in many domains. The technology is based on a learning process in which an algorithm is trained with large amounts of data. This yields to a generalized model that should interpret unseen data. For example, a model's task could be to classify a traffic sign. ML is increasingly used in critical areas where errors can have serious consequences, such as a self-driving car that classifies a stop sign as a speed limit sign. This raises the question how secure such systems are.
 
 An AI is often trained and evaluated with data that originates from controlled environments. In practice, however, this assumption is not given in many domains. Research has already shown practical attacks against AI systems and thus proven fundamental security problems.
 
-
+## Table of Contents
+1. [Events and Groups](#events-and-groups) 📆
+2. [Videos](#videos) 🎞️
+3. [Demos](#demos) 🧪
+4. [Literature](#literature) 📘 📄
 
 ### Events and Groups
 
