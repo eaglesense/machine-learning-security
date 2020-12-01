@@ -5,12 +5,17 @@ Artificial Intelligence (AI) or Machine Learning (ML) is widely used today becau
 An AI is often trained and evaluated with data that originates from controlled environments. In practice, however, this assumption is not given in many domains. Research has already shown practical attacks against AI systems and thus proven fundamental security problems.
 
 ## Table of Contents
-1. [Events and Groups](#events-and-groups) 📆
+1. [Events](#events) 📆
+2. [Groups](#groups)
 2. [Videos](#videos) 🎞️
 3. [Demos](#demos) 🧪
 4. [Literature](#literature) 📘 📄
 
-### Events and Groups
+### Events
+
+### Groups
+
+The [Secure Systems Group](https://crysp.uwaterloo.ca/research/SSG/) at the University of Waterloo (formerly resident at the Aalto University) researches in the the field of machine learning and security/privacy as well as model extraction attacks and defenses.
 
 ### Videos
 
