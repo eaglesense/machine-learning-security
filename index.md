@@ -13,9 +13,11 @@ An AI is often trained and evaluated with data that originates from controlled e
 
 ### Events
 
+[Workshop on Artificial Intelligence and Security (AISec)](https://aisec.cc/)
+
 ### Groups
 
-The [Secure Systems Group](https://crysp.uwaterloo.ca/research/SSG/) at the University of Waterloo (formerly resident at the Aalto University) researches in the the field of machine learning and security/privacy as well as model extraction attacks and defenses.
+The [Secure Systems Group](https://crysp.uwaterloo.ca/research/SSG/) at the University of Waterloo (formerly resident at the Aalto University) researches in the field of machine learning and security/privacy as well as model extraction attacks and defenses.
 
 ### Videos
 
