@@ -6,10 +6,11 @@ An AI is often trained and evaluated with data that originates from controlled e
 
 ## Table of Contents
 1. [Events](#events) 📆
-2. [Groups](#groups)
-2. [Videos](#videos) 🎞️
-3. [Demos](#demos) 🧪
-4. [Literature](#literature) 📘 📄
+2. [Groups](#groups) 🔬
+3. [Libraries](#libraries) 📚
+4. [Demos](#demos) 🧪
+5. [Videos](#videos) 🎞️
+6. [Literature](#literature) 📘 📄
 
 ### Events
 
@@ -19,11 +20,25 @@ An AI is often trained and evaluated with data that originates from controlled e
 
 The [Secure Systems Group](https://crysp.uwaterloo.ca/research/SSG/) at the University of Waterloo (formerly resident at the Aalto University) researches in the field of machine learning and security/privacy as well as model extraction attacks and defenses.
 
-### Videos
+The [Pattern Recognition and Applications Lab (PRALab)](https://pralab.diee.unica.it/en/AdversarialMachineLearning) at the University of Cagliari researches in the field of Adversarial Machine Learning.
+
+### Libraries
+
+The [secml](https://arxiv.org/pdf/1912.10013.pdf) Python library is hosted [here](https://gitlab.com/secml/secml), and its documentation can be found [here](https://secml.gitlab.io/).
+
+The [Adversarial Robustness Toolbox](https://arxiv.org/abs/1807.01069) is hosted [here](https://github.com/Trusted-AI/adversarial-robustness-toolbox).
+
+The [CleverHans Adversarial Examples Library](https://arxiv.org/abs/1610.00768) is hosted [here](https://github.com/tensorflow/cleverhans), and is explained in detail on the [cleverhans blog](http://www.cleverhans.io/).
+
+The [Foolbox](https://arxiv.org/abs/1707.04131) project is hosted [here](https://github.com/bethgelab/foolbox).
 
 ### Demos
 
 With [adversarial.js](https://kennysong.github.io/adversarial.js/) one can create adversarial examples to attack neural networks within a browser.
+
+[Secure ML Demo](https://www.pluribus-one.it/research/sec-ml/demo)
+
+### Videos
 
 ### Literature
 
