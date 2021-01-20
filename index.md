@@ -42,6 +42,9 @@ The [Pattern Recognition and Applications Lab (PRALab)](https://pralab.diee.unic
 | [EvadeML-Zoo](https://github.com/mzweilin/EvadeML-Zoo) | Benchmarking and Visualization |
 | [MIA](https://github.com/spring-epfl/mia) | Membership Inference Attack |
 | [Textfool](https://github.com/bogdan-kulynych/textfool) | Attack on Text Classification |
+| [Outlier Exposure](https://github.com/hendrycks/outlier-exposure) | Outlier Detection |
+| [PyOD](https://github.com/yzhao062/pyod) | Outlier Detection |
+| [SUOD](https://github.com/yzhao062/SUOD) | Outlier Detection |
 
 | Name | Category |
 | --- |:---:|
