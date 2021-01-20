@@ -28,7 +28,7 @@ The [Pattern Recognition and Applications Lab (PRALab)](https://pralab.diee.unic
 | --- |:---:|:---:|:---:|:---:|:---:|
 | Adversarial Robustness Toolbox | Tensorflow (v1 and v2), Keras, PyTorch, Scikit-learn, XGBoost, LightGBM, CatBoost, GPy | DNN, (Gradient Boosted) Decision Trees, SVM, RF, Logistic Regression, Gaussian Processes, and more  | >= 17 attacks | _Model Hardening_: Adversarial Training, Feature Squeezing, Label Smoothing, Spatial Smoothing, JPEG Compression, Thermometer Encoding, Total Variance Minimization, Gaussian Data Augmentation, Pixel Defense; _Runtime Detection (Evasion)_: Binary Detector based on Inputs and Activations, Fast generalized subset scan based detector; _Runtime Detection (Poisoning)_: Poisoning Filter Using Activation Clustering Against Backdoor Attacks | Emprirical Robustness, Loss Sensitivity, CLEVER, Clique Method Robustness Verification for Decision Tree Ensembles
 | secml     | A PyTorch wrapper (can be extended to use other ML frameworks) enables use of DNNs, Scikit-learn | DNN, SVM, RF | Training-time poisoning attacks, test-time evasion attacks | Integrates and extends many attacks from CleverHans | Explainability Visualization, feature-based and prototype-based explanation methods, integrated gradient for explanation |
-| Foolbox | PyTorch, Keras, Tensorflow, Theano, Lasagne, MXNet | | >= 15 attacks| | | _Adversarial criteria_: Targeted misclassification, top-k misclassification, distance measures |
+| Foolbox | PyTorch, Keras, Tensorflow, Theano, Lasagne, MXNet | | >= 15 attacks| | _Adversarial criteria_: Targeted misclassification, top-k misclassification, distance measures |
 | CleverHans | Tensorflow (v1) | | >= 10 attacks | adversarial training | |
 
 
