@@ -31,6 +31,24 @@ The [Pattern Recognition and Applications Lab (PRALab)](https://pralab.diee.unic
 | Foolbox | PyTorch, Keras, Tensorflow, Theano, Lasagne, MXNet | | >= 15 attacks| | _Adversarial criteria_: Targeted misclassification, top-k misclassification, distance measures |
 | CleverHans | Tensorflow (v1) | | >= 10 attacks | adversarial training | |
 
+| Name | Category |
+| --- |:---:|
+| [AdvBox](https://github.com/advboxes/AdvBox) | Adversarial Example Generation and Robustness Benchmark |
+| [Perceptron Robustness Benchmark](https://github.com/advboxes/perceptron-benchmark) | Benchmark for (computer vision) DNNs |
+| [AdversarialDNN-Playground](https://github.com/QData/AdversarialDNN-Playground) | Web-based Visualization for Adversarial ML |
+| [advertorch](https://github.com/BorealisAI/advertorch) | Attack, Defense, Adversarial Training |
+| [alibi-detect](https://github.com/SeldonIO/alibi-detect) | Outlier, Adversarial, and Drift Detection |
+| [DEEPSEC](https://github.com/kleincup/DEEPSEC) | Security, Attack, and Defense Analysis |
+| [EvadeML-Zoo](https://github.com/mzweilin/EvadeML-Zoo) | Benchmarking and Visualization |
+| [MIA](https://github.com/spring-epfl/mia) | Membership Inference Attack |
+| [Textfool](https://github.com/bogdan-kulynych/textfool) | Attack on Text Classification |
+
+| Name | Category |
+| --- |:---:|
+| [PySyft](https://github.com/OpenMined/PySyft) | Private Deep Learning |
+| [substra](https://github.com/SubstraFoundation/substra) | Private Deep Learning |
+| [Tensorflow Privacy](https://github.com/tensorflow/privacy) | Differential Privacy in ML |
+| [TF Encrypted](https://github.com/tf-encrypted/tf-encrypted) | Encrypted ML |
 
 The [secml](https://arxiv.org/pdf/1912.10013.pdf) Python library is hosted [here](https://gitlab.com/secml/secml), and its documentation can be found [here](https://secml.gitlab.io/).
 
