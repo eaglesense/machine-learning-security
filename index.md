@@ -22,6 +22,8 @@ The [Secure Systems Group](https://crysp.uwaterloo.ca/research/SSG/) at the Univ
 
 The [Pattern Recognition and Applications Lab (PRALab)](https://pralab.diee.unica.it/en/AdversarialMachineLearning) at the University of Cagliari researches in the field of Adversarial Machine Learning.
 
+The [Berryville Institute of Machine Learning (BIML)](https://berryvilleiml.com/) elaborates a taxonomy of attack vectors on machine learning and works on a threat model. They also maintain a [bibliography](https://berryvilleiml.com/references/) that contains papers related to machine learning security.
+
 ### Libraries
 
 | Name | ML Libraries | ML models | Attacks | Defenses | Noteworthy |
