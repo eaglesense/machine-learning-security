@@ -73,6 +73,8 @@ With [adversarial.js](https://kennysong.github.io/adversarial.js/) one can creat
 
 ### Videos
 
+The [Trustworthy ML Initiative (TrustML)](https://www.trustworthyml.org/home) organizes seminars to support researchers and practitioners in learning about the research area of trustworthy ML. Recordings of past seminars can be found [here](https://www.trustworthyml.org/seminar-series/recordings) or on the corresponding [Youtube Channel](https://www.youtube.com/channel/UCzJzYJFp0uqv7efTkZidgnA).
+
 ### Literature
 
 *Intriguing properties of neural networks*. [Szegedy et al. (2013)](https://research.google/pubs/pub42503/) discovered that deep neural networks, trained on an image classification task, are susceptible to adversarial examples. Minor manipulations of an image that are imperceptible to the naked eye can cause a neural network to output arbitrary classifications. Moreover, they found that adversarial examples are transferable between neural networks, that is, even neural networks with different parametrizations and training sets can be susceptible to the same adversarial examples. The authors of this work coined the term *adversarial examples* to describe input data perturbed with adversarial intent and performed experiments on crafting adversarial examples in the domain of image classification. The results indicate that the internal operation of neural networks behaves very sensitive to apparently insignificant changes to an input's semantic leading to an unexpected output.
