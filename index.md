@@ -24,7 +24,9 @@ The [Pattern Recognition and Applications Lab (PRALab)](https://pralab.diee.unic
 
 The [Berryville Institute of Machine Learning (BIML)](https://berryvilleiml.com/) elaborates a taxonomy of attack vectors on machine learning and works on a threat model. They also maintain a [bibliography](https://berryvilleiml.com/references/) that contains papers related to machine learning security.
 
-[Adversarial ML Threat Matrix](https://github.com/mitre/advmlthreatmatrix)
+The [Center for Trustworthy Machine Learning](https://ctml.psu.edu/) at the Pennsylvania State University.
+
+[Adversarial ML Threat Matrix](https://github.com/mitre/advmlthreatmatrix).
 
 ### Libraries
 
